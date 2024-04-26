@@ -1,15 +1,13 @@
 ---
 title: Run Springboot application with Elastic Beanstalk, SSH and EC2
 description: Advance diagnostics and troubleshooting steps for springboot application deployed with elastic beanstalk on EC2 environment
-tags: [AWS, ElasticBeanstalk, Springboot]
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l99gbdrza8psq4r01r4j.png
+tags: [AWS, ElasticBeanstalk, Springboot, Java, EC2, AWSCLI]
+image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l99gbdrza8psq4r01r4j.png
 type: post
 date: 2024-03-17T15:27:00+00:00
 ---
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l99gbdrza8psq4r01r4j.png)
-
-
 
 Recently, I worked on a PoC to create an automated build pipeline for a springboot rest api in elastic beanstalk. Based on prior knowledge related to the use of Amazon EBS, this was expected to be a trivial tasks. Turns out that without a solid knowledge on setting up and managing configurations for AWS resources, doing this can be challenging.
 

@@ -1,8 +1,8 @@
 ---
 title: Use CLI to generate your spring starter projects
 description: Rather than go throught the process of generating spring starter projects through spring.io, we can use spring CLI to generate projects templates
-tags: [Springboot, SpringCLI]
-image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkvpjffzi3icaobtae8c.png
+tags: [Springboot, SpringCLI, Java]
+image: "/images/posts/spring-boot.png"
 type: post
 date: 2024-04-17T03:27:00+00:00
 ---
