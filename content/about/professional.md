@@ -7,11 +7,11 @@ type: page
 
 ### Summary:
 - **Education:** 
-  _Mechatronic Engineer_ background with a specialization in building intelligent systems ([ITESM CVA](https://tec.mx/en/cuernavaca-campus) - 2010).
+  _Mechatronic Engineer_ specialization in intelligent systems ([ITESM CVA](https://tec.mx/en/cuernavaca-campus) - 2010).
 
-  _Masters of Bussiness Management_ background with a specialization in building intelligent systems ([ITESM ](https://tec.mx/) - 2015).
+  _Masters of Bussiness Management_ specialization in bussiness development ([ITESM ](https://tec.mx/) - 2015).
 
-- **Industries:** Banking, Telecommunication, Retail, eCommerce, Healthcare, multimedia, Fast foods, Logistics and Construction industries.
+- **Industries:** Banking, Telecommunication, Retail, eCommerce, Healthcare, Multimedia, Fast foods, Manufacturing, Logistics and Construction industries.
 - **Expertise:** Business Analysis, DevSecOps, Software Development, Process Automation, and Data Analysis.
 
 ### Technical Skills:
@@ -27,4 +27,4 @@ type: page
 ### Community Engagement:
 - Active participation in open-source projects and contribution to developer communities such as Stack Overflow, [GitHub](https://github.com/eiakoji-me), [Dev.to](https://dev.to/akojimsg), and [Medium](https://medium.com/@akojimsg).
 
-Your diverse skill set and experience make you well-equipped for roles that involve innovation, problem-solving, and technology-driven solutions across various industries.
+I am constantly working on building a diverse skill set to well-equipped for roles that involve innovation, problem-solving, and technology-driven solutions across various industries.
