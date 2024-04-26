@@ -1,9 +1,10 @@
 baseURL = 'http://eiakoji.me/'
-languageCode = 'en-us'
-title = 'eiakoji.me'
-theme = 'gokarna'
 enableRobotsTXT = true
+languageCode = 'en-us'
+defaultContentLanguage = "en"
 pygmentsStyle = 'monokai'
+theme = 'gokarna'
+title = 'eiakoji.me'
 ShowBackToTopButton = true
 
 [params]
@@ -11,7 +12,7 @@ ShowBackToTopButton = true
   avatarURL = "/images/me.jpeg"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "size-m"
+  avatarSize = "size-l"
 
   # Description to display on homepage
   description = "Software Architect | Tech Enthusiast"
@@ -37,14 +38,16 @@ ShowBackToTopButton = true
   # Footer text
   footer = "eiakoji.me"
 
-  togglePreviousAndNextButtons = "true"
+  togglePreviousAndNextButtons = "false"
 
+  # https://www.iconfinder.com/icons/
   socialIcons = [
     {name = "github", url = "https://github.com/eiakoji-me"},
     {name = "linkedin", url = "https://www.linkedin.com/in/ezekiel-inalegwu-akoji/"},
     {name = "stackoverflow", url = "https://stackoverflow.com/users/7411342/koji-dinfinte"},
     {name = "email", url = "akojimsg@gmail.com"},
     {name = "medium", url = "https://medium.com/@akojimsg"},
+    {name = "devto", url = "https://dev.to/akojimsg"},
   ]
 
 [menu]
@@ -64,14 +67,14 @@ ShowBackToTopButton = true
   [[menu.main]]
     name = "About"
     pre = "<span data-feather='user'></span>"
-    url = "/posts/"
+    url = "/about/"
     weight = 2
 
   [[menu.main]]
     name = "Projects"
     pre = "<span data-feather='code'></span>"
     url = "/projects/"
-    weight = 3    
+    weight = 3
 
   [[menu.main]]
     name = "Posts"
@@ -84,17 +87,22 @@ ShowBackToTopButton = true
     pre = "<span data-feather='tag'></span>"
     url = "/tags/"
     weight = 5
-    
+
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/eiakoji-me"
     weight = 6
-    
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
 
+  [[menu.main]]
+    identifier = "rss"
+    pre = "<span data-feather='rss'></span>"
+    url = "/index.xml"
+    weight = 7
+
 [markup]
   [markup.tableOfContents]
-    startLevel = 1
     endLevel = 4
     ordered = false
+    startLevel = 1
