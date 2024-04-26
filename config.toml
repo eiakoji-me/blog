@@ -36,7 +36,7 @@ ShowBackToTopButton = true
   # showPostsOnHomePage = ""
 
   # Footer text
-  footer = "eiakoji.me"
+  footer = "eiakoji.me | Powered by Hugo on Netlify"
 
   togglePreviousAndNextButtons = "false"
 

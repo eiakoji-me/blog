@@ -21,7 +21,7 @@ type: page
 - **DevSecOps:** Jenkins, CircleCI, Github Actions, Gitlab CI/DC, Terraform, Serverless, VeraCode, SonarCloud.
 - **AWS Services:** CloudFormation, VPCs, EC2, ECS/ECR + Fargate, API Gateway, Elastic BeanStalk, RDS, DynamoDB, CloudWatch, Elastic Load Balancers.
 - **Programming Languages:** Java SE, Java EE Spring Framework, SpringBoot, Node.js, JavaScript/TypeScript, Nest.js, Next.js, Angular, React.js, Express.js. Experienced with C#, C/C++, PHP, Matlab, Visual Lisp, Go, Python.
-- **Databases:** Oracle, MySQL, Microsoft SQL Server, Postgres, SSIS, NoSQL databases like MongoDB, Apache Cassandra, Elasticsearch.
+- **Databases:** Oracle, MySQL, Microsoft SQL Server, Postgres, SSIS, MongoDB, Apache Cassandra, Elasticsearch, Redis.
 - **Engineering Systems:** Fundamental knowledge of engineering systems and industrial processes related to CAD, CAE, CAM, CAx, building HMIs, and Microprocessors.
 
 ### Community Engagement:
