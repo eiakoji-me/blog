@@ -5,8 +5,8 @@ description: "Java utility functions to manipulate arrays"
 tags: ["java", "nodejs", "javascript", "Streams", "Guava"]
 type: post
 showTableOfContents: true
+image: /images/posts/array_streams_cover.jpg
 ---
-
 
 As a JavaScript developer, I have a strong preference for concise and expressive code, particularly when working with arrays and streams. I find great efficiency and readability in using one-line functions to manipulate data, whether it's filtering, mapping, or reducing arrays. These functional programming techniques allow me to achieve complex operations in a succinct manner, enhancing the clarity and maintainability of my code. 
 
