@@ -7,9 +7,9 @@ type: page
 
 ### Summary:
 - **Education:** 
-  _Mechatronic Engineer_ specialization in intelligent systems ([ITESM CVA](https://tec.mx/en/cuernavaca-campus) - 2010).
+  _BSE. Mechatronic Engineer_ specialization in intelligent systems ([ITESM CVA](https://tec.mx/en/cuernavaca-campus) - 2010).
 
-  _Masters of Bussiness Management_ specialization in bussiness development ([ITESM ](https://tec.mx/) - 2015).
+  _Msc. Bussiness Management_ specialization in bussiness development ([ITESM ](https://tec.mx/) - 2015).
 
 - **Industries:** Banking, Telecommunication, Retail, eCommerce, Healthcare, Multimedia, Fast foods, Manufacturing, Logistics and Construction industries.
 - **Expertise:** Business Analysis, DevSecOps, Software Development, Process Automation, and Data Analysis.
