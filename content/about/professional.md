@@ -25,6 +25,6 @@ type: page
 - **Engineering Systems:** Fundamental knowledge of engineering systems and industrial processes related to CAD, CAE, CAM, CAx, building HMIs, and Microprocessors.
 
 ### Community Engagement:
-- Active participation in open-source projects and contribution to developer communities such as Stack Overflow, [GitHub](https://github.com/eiakoji-me), [Dev.to](https://dev.to/akojimsg), and [Medium](https://medium.com/@akojimsg).
+- Active participation in open-source projects and contribution to developer communities such as [Stack Overflow](https://stackoverflow.com/users/7411342/koji-dinfinte), [GitHub](https://github.com/eiakoji-me), [Dev.to](https://dev.to/akojimsg), and [Medium](https://medium.com/@akojimsg).
 
 I am constantly working on building a diverse skill set to well-equipped for roles that involve innovation, problem-solving, and technology-driven solutions across various industries.
