@@ -1,1 +1,0 @@
-For my unconquerable soul, I thank whatever gods may be. Of my fate, I am master.

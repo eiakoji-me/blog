@@ -17,6 +17,7 @@ ShowBackToTopButton = true
 
   # Description to display on homepage
   description = "Software Architect | Tech Enthusiast"
+  subDescription = "For my unconquerable soul, I thank whatever gods may be. Of my fate, I am master."
 
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
