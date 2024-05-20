@@ -89,7 +89,7 @@ Overall, "Design Patterns: Elements of Reusable Object-Oriented Software" is a f
 
 ## Keynotes
 
-The phrase "One thing expert designers know not to do is solve every problem from first principles..." from "Design Patterns: Elements of Reusable Object-Oriented Software" emphasizes the importance of leveraging existing knowledge and solutions in software design rather than reinventing the wheel each time a problem arises. Here's an elaboration on this idea:
+Elements of Reusable Object-Oriented Software" emphasizes the importance of leveraging existing knowledge and solutions in software design rather than reinventing the wheel each time a problem arises. Here's an elaboration on this idea:
 
 ### Avoiding First Principles in Software Design
 
