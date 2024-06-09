@@ -50,3 +50,10 @@ Great! To create a summary for "Introduction to Algorithms, fourth edition," you
 **Conclusion:**
 The book provides a solid foundation in algorithm design and analysis, making it an essential resource for students and professionals in computer science. Its combination of theoretical rigor and practical applications helps readers develop a deep understanding of algorithmic problem-solving.
 
+## Related
+
+- [Understanding Distributed Systems, Second Edition: What every developer should know about large distributed applications](https://amzn.to/3QUbPrN)
+- [Think Like a Programmer: An Introduction to Creative Problem Solving](https://amzn.to/3yidalK)
+- [Pattern-Oriented Software Architecture](https://leer.amazon.com.mx/kp/embed?asin=B00CHK5SIA&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_0RR27P3K234F717Z6PD0&tag=eiakojime-20)
+- [Dive Into Algorithms: A Pythonic Adventure for the Intrepid Beginner](https://amzn.to/3wFaqhR)
+- [Algorithmic Thinking: A Problem-Based Introduction](https://amzn.to/3QRqjZD)
