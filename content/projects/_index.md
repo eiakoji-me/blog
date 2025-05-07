@@ -8,12 +8,14 @@ type: page
 showTableOfContents: true
 ---
 
+This section outlines the projects, workshops, and trainings I am undertaking to enhance my skills and knowledge as a staff-level engineer. The focus is on mastering advanced concepts, building scalable systems, and contributing to impactful projects.
+
 ## Workshops
 
 ### previsit-questionnaire-app
 
 I am currently working on a multi-tenant SaaS application for pre-visit questionnaires with EHR mappings. The project is designed to be a modular monolith, built with Nestjs and Nextjs, and includes authentication and authorization using Keycloak. It also supports caching with Redis.
-The system design is included in the repository, which can be found [here](https://github.com/akojimsg/previsit-questionnaire-app/blob/main/architecture_diagram.png).
+The system design is included in the repository, which can be found {{< newtab "https://github.com/akojimsg/previsit-questionnaire-app/blob/main/architecture_diagram.png" >}}here{{< /newtab >}}.
 
 
 ### Spring Microservices Workshop
@@ -28,26 +30,31 @@ Will be build an e-commerce application with the following microservices:
 - Analytics Service
 - Notification Service
 
-The workshop repository can be found [here](https://github.com/akojimsg/springboot-microservice-workshop)
+The workshop repository can be found {{< newtab "https://github.com/akojimsg/springboot-microservice-workshop" >}}here{{< /newtab >}}.
 
 
 ## Trainings
 
-This section contains trainings I am currently working on or have completed. The trainings are designed to enhance my skills and knowledge in various areas of software development, particularly in the Java ecosystem and microservices architecture.
+I am learning about the latest features and best practices in the Spring Framework. The focus is on building scalable and maintainable applications using Spring Boot and Spring Cloud. This training includes hands-on exercises and real-world examples to reinforce the concepts learned.
 
-### Spring I/O
+### Advanced Spring Framework
 In this training, I am learning about the latest features and best practices in Spring Framework. The focus is on building scalable and maintainable applications using Spring Boot and Spring Cloud. The training includes hands-on exercises and real-world examples to reinforce the concepts learned.
 
-- [Spring I/O 2023: Bootiful by Josh long](https://github.com/akojimsg/bootify-workshop)
+- {{< newtab "https://github.com/akojimsg/bootify-workshop" >}}Spring I/O 2023: Bootiful by Josh long{{< /newtab >}}
 
 ### Mastering microservices with Java
 
 In this training, I am diving deep into the principles and practices of microservices architecture. The focus is on building resilient and scalable microservices using Java and Spring Boot. The training covers topics such as service discovery, API gateway, inter-service communication, and monitoring.
 
-This is derived from the [Mastering microservices with Java](https://subscription.packtpub.com/book/programming/9781789530728) book by Sourabh Sharma. The training includes hands-on exercises and real-world examples to reinforce the concepts learned.
+This is derived from the {{< newtab "https://subscription.packtpub.com/book/programming/9781789530728" >}}Mastering microservices with Java{{< /newtab >}} book by Sourabh Sharma. The training includes hands-on exercises and real-world examples to reinforce the concepts learned.
 
-- [Mastering microservices with Java](#)
+- [Mastering microservices with Java]()
 
-## PoCs
+### Proof of Concepts (PoCs)
 
-Currently, I am working on a few PoCs that are not yet public. However, I will be sharing them soon. Stay tuned!
+I am currently working on several PoCs to explore new technologies and approaches for solving complex engineering problems. These PoCs are focused on:
+- Distributed systems
+- Cloud-native architectures
+- Observability and monitoring
+
+Details of these PoCs will be shared soon. Stay tuned!
