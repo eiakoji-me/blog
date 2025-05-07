@@ -14,11 +14,12 @@ As a passionate software engineer, I thrive on the perpetual quest to uncover in
 
 1. [Professional Profile](/about/professional/)
 2. [Social Profile](/about/social/)
+3. [Curriculum](/about/curriculum)
 
 
 ### Stuffs I am working on
 
 1. [Spring I/O 2023](https://github.com/akojimsg/bootify-workshop)
-2. [Spring Microservices Workshop]()
+2. [Spring Microservices Workshop](https://github.com/akojimsg/springboot-microservice-workshop)
 3. [Nodejs Microservices Workshop]()
-4. [Multi-tenant SaaS PoCs]()
+4. [Multi-tenant SaaS PoCs](https://github.com/akojimsg/previsit-questionnaire-app)
