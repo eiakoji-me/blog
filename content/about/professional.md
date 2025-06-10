@@ -29,8 +29,11 @@ type: page
 - **DevSecOps Tools:**  
   Jenkins, CircleCI, GitHub Actions, GitLab CI/CD, Terraform, Serverless Framework, Veracode, SonarCloud.
 
-- **AWS Services:**  
-  CloudFormation, VPCs, EC2, ECS/ECR + Fargate, API Gateway, Elastic Beanstalk, RDS, DynamoDB, CloudWatch, ELB.
+- **Cloud Technologies:** 
+  AWS (EC2, ECS/Fargate, RDS, DynamoDB, CloudFormation, API Gateway, CloudWatch),  
+  GCP (Compute Engine, Cloud Run, Cloud SQL, Pub/Sub, Stackdriver),  
+  Azure (planned adoption – focus on Azure Functions, Cosmos DB, and ARM templates).
+
 
 - **Programming Languages:**  
   Java SE, Java EE, Spring Framework, Spring Boot, Node.js, JavaScript/TypeScript, NestJS, Next.js, Angular, React.js, Express.js.  
