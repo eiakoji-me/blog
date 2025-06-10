@@ -52,7 +52,12 @@ type: page
 I continuously seek to expand my skill set and contribute to roles involving innovation, technical problem-solving, and cross-industry solutions.
 
 ### Certifications:
+
 - **AWS Certified Cloud Practitioner**  
-  [Credly Verification](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)
-- **AWS Certified Solutions Architect – Associate**: In progress
-- **AWS Certified Solutions Architect – Professional**: In progress
+  *Issued by AWS | Verified via [Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)*
+
+- **AWS Certified Solutions Architect – Associate**  
+  *In progress – expected completion: March 2025*
+
+- **AWS Certified Solutions Architect – Professional**  
+  *Planned – targeted for July 2025*
