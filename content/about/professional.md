@@ -6,25 +6,55 @@ type: page
 ---
 
 ### Summary:
-- **Education:** 
-  _BSE. Mechatronic Engineer_ specialization in intelligent systems ([ITESM CVA](https://tec.mx/en/cuernavaca-campus) - 2010).
+- **Education:**  
+  _BSE in Mechatronic Engineering_, specialization in Intelligent Systems ([ITESM Cuernavaca](https://tec.mx/en/cuernavaca-campus), 2010).  
+  _MSc in Business Management_, specialization in Business Development ([ITESM](https://tec.mx), 2015).
 
-  _Msc. Bussiness Management_ specialization in bussiness development ([ITESM ](https://tec.mx/) - 2015).
+- **Industries:**  
+  Banking, Telecommunications, Retail, eCommerce, Healthcare, Multimedia, Fast Food, Manufacturing, Logistics, and Construction.
 
-- **Industries:** Banking, Telecommunication, Retail, eCommerce, Healthcare, Multimedia, Fast foods, Manufacturing, Logistics and Construction industries.
-- **Expertise:** Business Analysis, DevSecOps, Software Development, Process Automation, and Data Analysis.
+- **Expertise:**  
+  Business Analysis, DevSecOps, Software Development, Process Automation, and Data Analysis.
 
 ### Technical Skills:
-- **Web Development:** RESTful APIs, GraphQL, Reactive web applications, MVC design pattern, and Microservices, PWA, Multi-tenant SaaS.
-- **UI Frameworks:** ReactJS, Angular, Prime Faces, PrimeNg, Prime React Static Site Generators (Hugo, Jekyll, Gatsby).
-- **Environments:** Ubuntu, Rhel, Amazon Linux 2/2023, Jboss EAP, WildFly, Tomcat, Nginx, Express.js, IIS, Apache.
-- **DevSecOps:** Jenkins, CircleCI, Github Actions, Gitlab CI/DC, Terraform, Serverless, VeraCode, SonarCloud.
-- **AWS Services:** CloudFormation, VPCs, EC2, ECS/ECR + Fargate, API Gateway, Elastic BeanStalk, RDS, DynamoDB, CloudWatch, Elastic Load Balancers.
-- **Programming Languages:** Java SE, Java EE Spring Framework, SpringBoot, Node.js, JavaScript/TypeScript, Nest.js, Next.js, Angular, React.js, Express.js. Experienced with C#, C/C++, PHP, Matlab, Visual Lisp, Go, Python.
-- **Databases:** Oracle, MySQL, Microsoft SQL Server, Postgres, SSIS, MongoDB, Apache Cassandra, Elasticsearch, Redis.
-- **Engineering Systems:** Fundamental knowledge of engineering systems and industrial processes related to CAD, CAE, CAM, CAx, building HMIs, and Microprocessors.
+- **Web Development:**  
+  RESTful APIs, GraphQL, Reactive Web Applications, MVC Pattern, Microservices, PWA, Multi-tenant SaaS.
+
+- **UI Frameworks:**  
+  ReactJS, Angular, PrimeFaces, PrimeNG, PrimeReact, and static site generators like Hugo, Jekyll, and Gatsby.
+
+- **Environments:**  
+  Ubuntu, RHEL, Amazon Linux 2/2023, JBoss EAP, WildFly, Tomcat, Nginx, Express.js, IIS, Apache.
+
+- **DevSecOps Tools:**  
+  Jenkins, CircleCI, GitHub Actions, GitLab CI/CD, Terraform, Serverless Framework, Veracode, SonarCloud.
+
+- **AWS Services:**  
+  CloudFormation, VPCs, EC2, ECS/ECR + Fargate, API Gateway, Elastic Beanstalk, RDS, DynamoDB, CloudWatch, ELB.
+
+- **Programming Languages:**  
+  Java SE, Java EE, Spring Framework, Spring Boot, Node.js, JavaScript/TypeScript, NestJS, Next.js, Angular, React.js, Express.js.  
+  Also experienced in C#, C/C++, PHP, MATLAB, Visual Lisp, Go, and Python.
+
+- **Databases:**  
+  Oracle, MySQL, SQL Server, PostgreSQL, SSIS, MongoDB, Cassandra, Elasticsearch, Redis.
+
+- **Engineering Systems:**  
+  Familiarity with CAD, CAE, CAM, CAx, HMI development, and microprocessor-based systems.
 
 ### Community Engagement:
-- Active participation in open-source projects and contribution to developer communities such as [Stack Overflow](https://stackoverflow.com/users/7411342/koji-dinfinte), [GitHub](https://github.com/eiakoji-me), [Dev.to](https://dev.to/akojimsg), and [Medium](https://medium.com/@akojimsg).
+- Contributor to open-source projects and active in developer communities such as:  
+  [Stack Overflow](https://stackoverflow.com/users/7411342/koji-dinfinte),  
+  [GitHub](https://github.com/eiakoji-me),  
+  [Dev.to](https://dev.to/akojimsg),  
+  [Medium](https://medium.com/@akojimsg)
 
-I am constantly working on building a diverse skill set to well-equipped for roles that involve innovation, problem-solving, and technology-driven solutions across various industries.
+I continuously seek to expand my skill set and contribute to roles involving innovation, technical problem-solving, and cross-industry solutions.
+
+### Certifications:
+- **AWS Certified Cloud Practitioner**  
+  [Credly Verification](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)
+- **AWS Certified Solutions Architect – Associate**
+  [Credly Verification](https://www.credly.com/badges/0f1b2c3d-4e5f-6789-a0b1-c2d3e4f5g6h7/public_url)
+- **AWS Certified Solutions Architect – Professional**
+  [Credly Verification](https://www.credly.com/badges/0f1b2c3d-4e5f-6789-a0b1-c2d3e4f5g6h7/public_url)
