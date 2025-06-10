@@ -30,9 +30,7 @@ type: page
   Jenkins, CircleCI, GitHub Actions, GitLab CI/CD, Terraform, Serverless Framework, Veracode, SonarCloud.
 
 - **Cloud Technologies:** 
-  AWS (EC2, ECS/Fargate, RDS, DynamoDB, CloudFormation, API Gateway, CloudWatch),  
-  GCP (Compute Engine, Cloud Run, Cloud SQL, Pub/Sub, Stackdriver),  
-  Azure (planned adoption – focus on Azure Functions, Cosmos DB, and ARM templates).
+  _AWS_ (EC2, ECS/Fargate, RDS, DynamoDB, CloudFormation, API Gateway, CloudWatch), _GCP_ (Compute Engine, Cloud Run, Cloud SQL, Pub/Sub, Stackdriver), _Azure_ (planned adoption – focus on Azure Functions, Cosmos DB, and ARM templates).
 
 
 - **Programming Languages:**  
