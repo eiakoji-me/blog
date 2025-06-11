@@ -17,7 +17,7 @@ Worse still, I started turning down or delaying interviews with companies I deep
 
 Eventually, it all came to a head.
 
-In one interview for a role I genuinely wanted, I faced a DSA problem — _[Jack and Jill](https://github.com/eiakoji-me/dsa-fundamentals-01/blob/main/arrays-and-strings/jack-and-jill.java)_. For nearly an hour, I was paralyzed, trying to figure out a solution. No insights surfaced, no direction emerged, and I couldn't write a single line of meaningful code. Just the rising tide of panic and the slow, brutal unraveling of my confidence.
+In one interview for a role I genuinely wanted, I faced a DSA problem — _{{< newtab "https://github.com/eiakoji-me/dsa-fundamentals-01/blob/main/arrays-and-strings/jack-and-jill.java" >}}Jack and Jill{{< /newtab >}}_. For nearly an hour, I was paralyzed, trying to figure out a solution. No insights surfaced, no direction emerged, and I couldn't write a single line of meaningful code. Just the rising tide of panic and the slow, brutal unraveling of my confidence.
 
 I walked away from that experience defeated — but not destroyed.
 
