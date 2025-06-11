@@ -1,8 +1,8 @@
 ---
 title: "Back to the Fundamentals"
 date: 2025-06-10T11:31:00-06:00
-description: "How I shifted from despair to clarity by returning to the learning patterns that once defined my success in mathematics and problem-solving."
-tags: ["dsa", "self-taught", "learning", "coding interviews"]
+description: "Back to the Fundamentals is the first entry in my Road to DSA Mastery series — a personal turning point in confronting years of improvisational learning, fear of coding interviews, and avoidance of algorithmic thinking. This post recounts how I went from feeling helpless in the face of LeetCode problems to rediscovering the structured learning patterns that once defined my academic success in mathematics. It reflects on failure, clarity, and the decision to start over — with purpose, discipline, and a renewed mindset for mastering data structures and algorithms the right way."
+tags: ["data structures", "algorithms", "coding interviews"]
 type: post
 showTableOfContents: true
 image: /images/posts/dsa-made-easy_250x250.png
