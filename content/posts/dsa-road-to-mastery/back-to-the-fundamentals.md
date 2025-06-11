@@ -7,20 +7,21 @@ type: post
 showTableOfContents: true
 image: /images/posts/dsa-made-easy_250x250.png
 ---
-For a long time, I’ve carried a deep sense of limitation and fear around coding interviews. Despite being confident in logical reasoning, I had only a superficial grasp of data structures and algorithms. My approach to problem-solving — picking up just enough knowledge on the fly, relying on Google and Stack Overflow — was effective. It got things built. It delivered results. But it also became a comfort zone, one that favored improvisation over foundational understanding, and left me unprepared for high-pressure environments where depth, not speed, was required.
+For a long time, I felt deeply limited — even afraid — when it came to coding interviews. Though I was confident in my logical reasoning, my understanding of data structures and algorithms was superficial at best. Over the years, I became highly effective at solving problems using Google, Stack Overflow, and intuition. That worked well enough in real-world coding, where creativity and resourcefulness often mattered more than academic precision.
 
-Timed interviews, stripped of autocomplete, documentation, or internet searches, felt like a cruel game I wasn’t trained to play. My first LeetCode problem — *Longest Substring Without Repeating Characters* — took me eight hours to brute force, and I couldn't even remember how I got there. DSA didn’t feel like a growth opportunity. It felt like a gatekeeper.
+But everything changed the moment I stepped into the world of timed interviews — stripped of autocomplete, documentation, or internet access. These environments felt alien. Without a strong foundation in DSA, even understanding the questions felt overwhelming, let alone solving them under pressure.
 
-And the gate was locked.
+I still remember my first LeetCode problem: Longest Substring Without Repeating Characters. It took me eight hours to brute-force a solution — and to this day, I couldn’t tell you how I got there. DSA became not just a knowledge gap, but a source of anxiety. Even the most basic software roles required solving medium or hard algorithm problems. That reality was disheartening. My frustration grew.
 
-Even entry-level roles came with medium-to-hard algorithm challenges. It was disheartening. I delayed interviews with companies I admired — AWS, Netflix, Pinterest, Google — not because I wasn’t interested, but because I felt doomed to fail.
+Worse still, I started turning down or delaying interviews with companies I deeply admired — Google, AWS, Netflix, Pinterest — not because I lacked interest, but because I knew failure was guaranteed.
 
-Eventually, I hit rock bottom. I bombed a problem in an interview for a role I deeply wanted. I hoped DSA wouldn’t come up. It did. The problem — *Jack and Jill* — stared me in the face for an hour, and I couldn’t move. Not one line of meaningful code. Not one clear idea.
+Eventually, it all came to a head.
 
-I walked away from that moment feeling broken. But also — clear.
+In one interview for a role I genuinely wanted, I faced a DSA problem — _[Jack and Jill](https://github.com/eiakoji-me/dsa-fundamentals-01/blob/main/arrays-and-strings/jack-and-jill.java)_. For nearly an hour, I was paralyzed, trying to figure out a solution. No insights surfaced, no direction emerged, and I couldn't write a single line of meaningful code. Just the rising tide of panic and the slow, brutal unraveling of my confidence.
 
-That failure didn’t mark the end. It marked a turning point.
-I accepted defeat, not with despair — but with a decision:
+I walked away from that experience defeated — but not destroyed.
+
+That failure didn’t mark the end. It marked the beginning of a different path with a clear resolution:
 
 > It’s time to go back to the fundamentals.
 
