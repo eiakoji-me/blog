@@ -1,6 +1,6 @@
 ---
-title: "My Curriculum"
-description: "My Curriculum"
+title: "My Curriculum - June 2025"
+description: "A comprehensive overview of my professional journey, technical skills, and contributions in software engineering."
 tags: ["curriculum", "resume", "cv"]
 showTableOfContents: false
 type: page
@@ -9,7 +9,7 @@ type: page
 # Ezekiel Inalegwu Akoji
 
 **Senior Software Engineer** | Java Platform & Tooling | Kotlin Ecosystem
-📍 Monterrey, NL · 📧 akojimsg@gmail.com · 📱 +52 55 6087 2918  
+📍 Houston, Tx · 📧 akojimsg@gmail.com · 📱 +1 346-314-2519  
 🔗 [LinkedIn](https://linkedin.com/in/ezekiel-inalegwu-akoji) · 🌐 [eiakoji.me](https://eiakoji.me)
 
 ---
@@ -106,3 +106,12 @@ _Nov 2020 – May 2022_
 
 - **MCS Business Management** – Tecnológico de Monterrey, 2011–2015
 - **BCS Mechatronics Engineering** – Tecnológico de Monterrey, 2006–2010
+
+## Certifications:
+
+- **AWS Certified Cloud Practitioner**  
+  *Issued by AWS | Verified via [Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)*
+- **AWS Certified Solutions Architect – Associate**  
+  *In progress – expected completion: June 2025*
+- **AWS Certified Solutions Architect – Professional**  
+  *Planned – targeted for July 2025*
