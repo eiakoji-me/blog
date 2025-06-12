@@ -111,9 +111,6 @@ _Nov 2020 – May 2022_
 
 ## Certifications
 
-- **AWS Certified Cloud Practitioner**  
-  *Issued by AWS | Verified via [Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)*
-- **AWS Certified Solutions Architect – Associate**  
-  *In progress – expected completion: June 2025*
-- **AWS Certified Solutions Architect – Professional**
-  *Planned – targeted for July 2025*
+- **AWS Certified Cloud Practitioner** : *Issued by AWS | Verified via [Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)*
+- **AWS Certified Solutions Architect – Associate**: *In progress – expected completion: June 2025*
+- **AWS Certified Solutions Architect – Professional**: *Planned – targeted for July 2025*
