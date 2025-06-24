@@ -1,13 +1,12 @@
 ---
-
 title: "Open Your Mind: To Learn, You Must Unlearn"
 date: 2025-06-17T09:00:00-06:00
-description: "The second entry in my Road to DSA Mastery series explores the difficult but transformative process of rewiring the mind for true understanding. After years of coding experience and reliance on shortcuts, I began to see how my habits were limiting my growth in data structures and algorithms. This post reflects on unlearning, building intuition, and rediscovering the structured curiosity that once made learning math joyful and deep."
+description: "The second entry in my Road to DSA Mastery series reflects on the painful but transformative process of unlearning. After years of fast-paced coding and habit-driven problem-solving, I realized how those shortcuts were limiting my growth. This post explores what it means to slow down, rebuild intuition, and rediscover the deep, structured curiosity that once made learning math feel joyful—and how that same mindset is now guiding my journey through data structures and algorithms."
 tags: ["data structures", "algorithms", "problem solving", "self-improvement"]
 type: post
 showTableOfContents: true
 image: /images/posts/dsa-made-easy_250x250.png
-------------------------------------------------
+---
 
 > Approach every learning problem with the assumption that you truly do not know. It's crucial to prevent existing knowledge or past experience from subtly interfering with the learning process. While this mindset can be challenging to adopt, it's absolutely essential for achieving a genuine paradigm shift and building profound, unshakeable intuition.
 
