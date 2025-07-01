@@ -1,5 +1,4 @@
 ---
-
 title: "Learn again, learn better"
 date: 2025-06-23T23:18:00-06:00
 description: "The third entry in my Road to DSA Mastery series captures the breakthrough moment when structured learning replaced brute-force practice. By drawing on the analogy of exam preparation, I share how rediscovering the progression from data types to abstract data types, data structures, algorithms, and problem-solving techniques brought clarity to my studies. This entry dives deep into the conceptual hierarchy behind DSA, explores the connection between recursion and mathematical thinking, and reflects on why understanding structure is foundational to becoming a better engineer."
