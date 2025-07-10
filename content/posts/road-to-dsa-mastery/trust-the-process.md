@@ -2,7 +2,7 @@
 title: "Trust the Process, Make Refinements"
 date: 2025-06-30T23:18:00-00:00
 description: "This fourth entry in the Road to DSA Mastery series reflects on the emotional and intellectual turning points of rebuilding foundational knowledge. It explores the tension between urgency and understanding, the discomfort of rapid growth, and the strategies used to move from imitation to mastery. With insights from real interview prep for L5–L6 roles and references to key books and concepts, this post offers a grounded yet aspirational guide for engineers serious about refining their craft."
-tags: ["data structures", "algorithms", "problem solving", "self-improvement"]
+tags: ["data structures", "algorithms", "first principles", "problem solving", "road to mastery"]
 type: post
 showTableOfContents: true
 image: /images/posts/static/images/posts/road-to-dsa-mastery-entry-4.png
@@ -47,9 +47,12 @@ To other readers struggling with the grind of LeetCode-style prep: consider a di
 
 #### 🌳 Trees, Paths, and Linked Lists
 
-In one recent problem, I had to return all paths in a tree from the root to each leaf. At first, I treated the recursion mechanically. But then it clicked: each path is essentially a linked list being constructed as recursion unwinds. You either return `null` (no path), or you return a list — and prepend nodes to it as you go back up the call stack.
+I was recently practicing on a problem that requires returning a list of all the paths in a tree from the root to each leaf. While studying the approach from Structy.net, I stumbled on a fascinating insight. The problem had a clue: each path is essentially a linked list being constructed as recursion unwinds. You either return `null` (no path), or you return a list — and prepend nodes to it as you go back up the call stack. In other words, a path begins from a node where a specific condition is met, and from that point, you recursively trace back to a desired start point -   you’re building a linked list in reverse.
 
-Every valid path through a tree is a *linked list in disguise*. That one insight made the implementation not only easier but more beautiful.
+> Each path in binary tree is essentially a linked list, dynamically constructed as the recursion unwinds.
+
+The logic became beautifully simple: you either return null (if no path exists from that point) or a list, prepending nodes to it as you move back up the call stack.
+This revelation-that every valid path through a tree is a linked list in disguise-didn't just make the implementation easier; it made it remarkably elegant.
 
 #### 📈 Instant Rewards
 

@@ -2,7 +2,7 @@
 title: "Open Your Mind: To Learn, You Must Unlearn"
 date: 2025-06-17T09:00:00-06:00
 description: "The second entry in my Road to DSA Mastery series reflects on the painful but transformative process of unlearning. After years of fast-paced coding and habit-driven problem-solving, I realized how those shortcuts were limiting my growth. This post explores what it means to slow down, rebuild intuition, and rediscover the deep, structured curiosity that once made learning math feel joyful—and how that same mindset is now guiding my journey through data structures and algorithms."
-tags: ["data structures", "algorithms", "problem solving", "self-improvement"]
+tags: ["data structures", "algorithms", "first principles", "problem solving", "road to mastery"]
 type: post
 showTableOfContents: true
 image: /images/posts/dsa-made-easy_250x250.png
