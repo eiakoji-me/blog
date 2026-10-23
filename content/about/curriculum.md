@@ -8,7 +8,7 @@ type: page
 
 # Ezekiel Inalegwu Akoji
 
-**Senior Software Engineer** | Java Platform & Tooling
+**Software Engineer** | L6+ / Engineering Manager Track | Java Platform & Tooling
 
 📍 Houston, TX · 📧 [akojimsg@gmail.com](mailto:akojimsg@gmail.com)
 
