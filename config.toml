@@ -1,6 +1,6 @@
-baseURL = 'http://eiakoji.me/'
+baseURL = 'https://eiakoji.me/'
 enableRobotsTXT = true
-languageCode = 'en-us'
+locale = 'en-us'
 defaultContentLanguage = "en"
 pygmentsStyle = 'monokai'
 theme = 'gokarna'
@@ -40,14 +40,14 @@ ShowBackToTopButton = true
   # Footer text
   footer = "eiakoji.me | Powered by Hugo on Netlify"
 
-  togglePreviousAndNextButtons = "false"
+  togglePreviousAndNextButtons = false
 
   # https://www.iconfinder.com/icons/
   socialIcons = [
     {name = "github", url = "https://github.com/eiakoji-me"},
     {name = "linkedin", url = "https://www.linkedin.com/in/ezekiel-inalegwu-akoji/"},
     {name = "stackoverflow", url = "https://stackoverflow.com/users/7411342/koji-dinfinte"},
-    {name = "email", url = "akojimsg@gmail.com"},
+    {name = "email", url = "mailto:akojimsg@gmail.com"},
     {name = "medium", url = "https://medium.com/@akojimsg"},
     {name = "devto", url = "https://dev.to/akojimsg"},
   ]

@@ -55,28 +55,28 @@ This command creates a new Spring Boot project with Java 21, Gradle as the build
 
 | Command                                | Description                                                 |
 |----------------------------------------|-------------------------------------------------------------|
-| --dependencies, -d <dependencies>      | Comma-separated list of dependencies to include             |
-| --version, -v <version>                | Version of Spring Boot to use (e.g., 2.6.0, 2.5.4.RELEASE)  |
-| --build, -b <build-tool>               | Build tool to use (maven or gradle)                         |
-| --java, -j <java-version>              | Java version (e.g., 1.8, 11, 17)                            |
-| --language, -l <language>              | Language for the project (java, groovy, kotlin)             |
-| --package-name, -p <package-name>      | Base package name for the project                           |
-| --groupId, -g <groupId>                | Group ID for the project                                    |
-| --artifactId, -a <artifactId>          | Artifact ID for the project                                 |
-| --boot-version <version>               | Version of Spring Boot to use                               |
+| --dependencies, -d `<dependencies>`      | Comma-separated list of dependencies to include             |
+| --version, -v `<version>`                | Version of Spring Boot to use (e.g., 2.6.0, 2.5.4.RELEASE)  |
+| --build, -b `<build-tool>`               | Build tool to use (maven or gradle)                         |
+| --java, -j `<java-version>`              | Java version (e.g., 1.8, 11, 17)                            |
+| --language, -l `<language>`              | Language for the project (java or groovy)                   |
+| --package-name, -p `<package-name>`      | Base package name for the project                           |
+| --groupId, -g `<groupId>`                | Group ID for the project                                    |
+| --artifactId, -a `<artifactId>`          | Artifact ID for the project                                 |
+| --boot-version `<version>`               | Version of Spring Boot to use                               |
 | --force, -f                            | Overwrite any existing files                                |
-| --extract, -x <archive>                | Extracts the given archive to the project directory         |
+| --extract, -x `<archive>`                | Extracts the given archive to the project directory         |
 | --list, -ls                            | List all available Spring Boot versions                     |
-| --list-modules, -lm <module>           | List the modules for a given version                        |
+| --list-modules, -lm `<module>`           | List the modules for a given version                        |
 | --list-templates, -lt                  | List all available project templates                        |
 | --no-overwrite                         | Skips writing files if they already exist                   |
-| --packaging, -P <packaging>            | Packaging to use for the project (e.g., jar, war)           |
-| --name, -n <name>                      | Project name                                                |
-| --description, -d <description>        | Project description                                         |
+| --packaging, -P `<packaging>`            | Packaging to use for the project (e.g., jar, war)           |
+| --name, -n `<name>`                      | Project name                                                |
+| --description, -d `<description>`        | Project description                                         |
 | --force, -f                            | Overwrite existing files without prompting                  |
-| --format, -of <output-format>          | Format the output using the given format (e.g., json, yaml) |
+| --format, -of `<output-format>`          | Format the output using the given format (e.g., json, yaml) |
 | --list, -ls                            | List all available versions                                 |
-| --list-boot, -lb <spring-boot-version> | List all available Spring Boot versions                     |
+| --list-boot, -lb `<spring-boot-version>` | List all available Spring Boot versions                     |
 | --list-all                             | List all available Spring Boot versions                     |
 | --list-templates, -lt                  | List all available project templates                        |
 | --yes, -y                              | Always use the default value for prompts                    |
@@ -136,7 +136,6 @@ This table summarizes the options available for the `spring init` command, along
 - `cloud-hystrix`: Hystrix: Circuit Breaker
 - `cloud-zuul`: Zuul: API Gateway
 - `kafka`: Apache Kafka: Kafka Support
-- `kotlin`: Kotlin: Kotlin Programming Language Support
 - `mongodb`: MongoDB: MongoDB Support
 - `restdocs`: Spring REST Docs: Documentation generation for RESTful services
 - `security-oauth2`: OAuth2: OAuth 2.0 Support
@@ -148,7 +147,6 @@ This table summarizes the options available for the `spring init` command, along
 |-----------------------|---------------------------------------------------------------|--------------------------------------------|
 | gradle-build          | Generate a Gradle build file.                                 | build:gradle,format:build                  |
 | gradle-project *      | Generate a Gradle based project archive using the Groovy DSL. | build:gradle,dialect:groovy,format:project |
-| gradle-project-kotlin | Generate a Gradle based project archive using the Kotlin DSL. | build:gradle,dialect:kotlin,format:project |
 | maven-build           | Generate a Maven pom.xml.                                     | build:maven,format:build                   |
 | maven-project         | Generate a Maven based project archive.                       | build:maven,format:project                 |
 
