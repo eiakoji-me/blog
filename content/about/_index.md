@@ -2,8 +2,7 @@
 weight: 5
 title: "About Me"
 date: 2020-05-06T21:29:01+08:00
-description: "Who am I, What am I up to and what is my why?"
-tags: ["eiakojime", "nodejs", "AWS", "github", "Mongo-db"]
+description: "Who am I, what am I up to, and what drives my work."
 type: page
 showTableOfContents: true
 ---
@@ -14,12 +13,10 @@ As a passionate software engineer, I thrive on the perpetual quest to uncover in
 
 1. [Professional Profile](/about/professional/)
 2. [Social Profile](/about/social/)
-3. [Curriculum](/about/curriculum)
+3. [Curriculum (Resume)](/about/curriculum/)
 
-
-### Stuffs I am working on
+### Current Projects & Workshops
 
 1. [Spring I/O 2023](https://github.com/akojimsg/bootify-workshop)
 2. [Spring Microservices Workshop](https://github.com/akojimsg/springboot-microservice-workshop)
-3. [Nodejs Microservices Workshop]()
-4. [Multi-tenant SaaS PoCs](https://github.com/akojimsg/previsit-questionnaire-app)
+3. [Pre-visit Questionnaire App (Multi-tenant SaaS)](https://github.com/akojimsg/previsit-questionnaire-app)

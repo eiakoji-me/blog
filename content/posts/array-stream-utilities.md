@@ -2,10 +2,12 @@
 title: "Arrays - Utility functions in Java Stream interface"
 date: 2024-04-26T02:10:33-06:00
 description: "Java utility functions to manipulate arrays"
-tags: ["java", "nodejs", "javascript", "Streams", "Guava"]
+tags: ["java", "streams", "guava"]
 type: post
 showTableOfContents: true
 image: /images/posts/array_streams_cover.jpg
+aliases:
+  - /posts/array_stream_utilities/
 ---
 
 As a JavaScript developer, I have a strong preference for concise and expressive code, particularly when working with arrays and streams. I find great efficiency and readability in using one-line functions to manipulate data, whether it's filtering, mapping, or reducing arrays. These functional programming techniques allow me to achieve complex operations in a succinct manner, enhancing the clarity and maintainability of my code. 
@@ -27,7 +29,7 @@ Arrays.fill(arr, new Random().nextInt(100));
 ### Transform all values in an array to random numbers
 
 ```java
-Arrays.stream(arr).map(val -> new Random().nextInt(100)).toArray()
+Arrays.stream(arr).map(val -> new Random().nextInt(100)).toArray();
 ```
 
 ### Aggregations (min, max, count, sum, average)
@@ -43,7 +45,7 @@ System.out.println(Arrays.stream(arr).min().getAsInt());
 System.out.println(Arrays.stream(arr).count());
 
 //Sum
-System.out.println(Arrays.stream(arr).sum())
+System.out.println(Arrays.stream(arr).sum());
 
 //Average
 System.out.println(Arrays.stream(arr).average().getAsDouble());
@@ -52,7 +54,7 @@ System.out.println(Arrays.stream(arr).average().getAsDouble());
 ### Remove duplicates
 
 ```java
-Arrays.stream(arr).map(val -> new Random().nextInt(100)).distinct().toArray();
+Arrays.stream(arr).distinct().toArray();
 ```
 
 ### Sorting Arrays
@@ -69,10 +71,10 @@ var a = Arrays.stream(arr).boxed().sorted(Comparator.naturalOrder()).toArray();
 
 ```java
 // Filter odd numbers
-Arrays.stream(arr).map(val -> new Random().nextInt(100)).filter(val -> val % 2 == 0).toArray();
+Arrays.stream(arr).filter(val -> val % 2 != 0).toArray();
 
 //Filter values less than 12
-Arrays.stream(arr).map(val -> new Random().nextInt(100)).filter(val -> val < 12).toArray();
+Arrays.stream(arr).filter(val -> val < 12).toArray();
 ```
 
 ### Check if all the elements of array meet a condition
@@ -80,7 +82,7 @@ Arrays.stream(arr).map(val -> new Random().nextInt(100)).filter(val -> val < 12)
 // Check if all the values are greater than zero
 Arrays.stream(arr).allMatch(val -> val > 0);
 
-// Check if any value is greather than zero
+// Check if any value is greater than zero
 Arrays.stream(arr).anyMatch(val -> val > 0);
 
 //Check if none of the values is gt 100
@@ -91,10 +93,10 @@ Arrays.stream(arr).noneMatch(val -> val > 100);
 
 ```java
 // Sum all the values in an array
-Arrays.stream(arr).reduce(0, (a,b) -> a+b)
+Arrays.stream(arr).reduce(0, (a, b) -> a + b);
 
-// Product of all the values in
-Arrays.stream(arr).reduce(1, (a,b) -> a*b)
+// Product of all the values in an array
+Arrays.stream(arr).reduce(1, (a, b) -> a * b);
 ```
 
 ## Using Google / guava dependencies

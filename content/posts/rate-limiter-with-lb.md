@@ -4,9 +4,11 @@ description: "Configure rate limiter for a microservice, implementing load balan
 date: 2024-04-30T23:04:16-06:00
 draft: true
 type: post
-tags: ["Spring cloud", "Resilience4j", "Netflix Eureka", "Api Gateway", "Load Balance"]
+tags: ["spring-cloud", "resilience4j", "api-gateway", "microservices"]
 showTableOfContents: true
-image: /images/posts/patterns-of-enterpris-application-architecture.jpg
+image: /images/posts/spring-boot.png
+aliases:
+  - /posts/rate_limiter_with_lb/
 ---
 
 ## Introduction

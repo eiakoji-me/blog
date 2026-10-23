@@ -1,5 +1,6 @@
 ---
 title: "About Me - Professional Profile"
+date: 2024-04-20T12:00:00-06:00
 description: "Summary of my professional profile"
 showTableOfContents: false
 type: page

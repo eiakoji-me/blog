@@ -136,3 +136,12 @@ If you’ve been on a similar journey, I’d love to hear your thoughts.
 {{< newtab "https://medium.com/@akojimsg">}}Follow me on medium{{< /newtab>}}, share this with a fellow learner, or reach out with your insights. Let's continue to grow together.
 
 _Think big. Take small steps. Stay humble._
+
+---
+
+> **Road to DSA Mastery Series:**
+> 1. [Part 1: Back to the Fundamentals](/posts/road-to-dsa-mastery/back-to-the-fundamentals/)
+> 2. [Part 2: Open Your Mind: To Learn, You Must Unlearn](/posts/road-to-dsa-mastery/open-your-mind-learn-to-unlearn/)
+> 3. [Part 3: Learn Again, Learn Better](/posts/road-to-dsa-mastery/learning-to-learn/)
+> 4. [Part 4: Trust the Process, Make Refinements](/posts/road-to-dsa-mastery/trust-the-process/)
+> 5. **Part 5: The End in Sight: From Fog to First Principles** *(You are here)*

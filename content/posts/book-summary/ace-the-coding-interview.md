@@ -1,10 +1,13 @@
 ---
-title: "Ace the Coding Interview"
-description: "A structured collection of coding-interview practice drills."
-tags: ["data structures", "algorithms", "interview preparation"]
+title: "Ace the Coding Interview: Essential Patterns and Drills"
+date: 2024-05-10T10:00:00-06:00
+description: "A comprehensive reference of coding interview patterns and drills covering Two Pointers, Sliding Window, Fast & Slow Pointers, Tree BFS/DFS, Heaps, and Dynamic Programming."
+tags: ["algorithms", "data structures", "problem solving", "road to mastery"]
 type: post
 showTableOfContents: true
-draft: true
+image: /images/posts/dsa-made-easy_250x250.png
+aliases:
+  - /posts/book-summary/Ace-the-coding-interview/
 ---
 
 ## 📚 Chapter 01 – Two Pointers (14 Drills)

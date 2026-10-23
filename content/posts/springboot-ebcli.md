@@ -1,19 +1,21 @@
 ---
 title: Run Springboot application with Elastic Beanstalk, SSH and EC2
-description: Advance diagnostics and troubleshooting steps for springboot application deployed with elastic beanstalk on EC2 environment
-tags: [AWS, ElasticBeanstalk, Springboot, Java, EC2, AWSCLI]
-image: https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l99gbdrza8psq4r01r4j.png
+description: Advanced diagnostics and troubleshooting steps for Spring Boot applications deployed with Elastic Beanstalk on EC2 environments
+tags: ["aws", "elastic-beanstalk", "spring-boot", "java", "ec2"]
+image: /images/posts/elasticbeanstalk.png
 type: post
 date: 2024-03-17T15:27:00+00:00
+aliases:
+  - /posts/springboot_ebcli/
 ---
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l99gbdrza8psq4r01r4j.png)
+![Spring Boot on AWS Elastic Beanstalk](/images/posts/elasticbeanstalk.png)
 
-Recently, I worked on a PoC to create an automated build pipeline for a springboot rest api in elastic beanstalk. Based on prior knowledge related to the use of Amazon EBS, this was expected to be a trivial tasks. Turns out that without a solid knowledge on setting up and managing configurations for AWS resources, doing this can be challenging.
+Recently, I worked on a PoC to create an automated build pipeline for a Spring Boot REST API in Elastic Beanstalk. Based on prior knowledge related to the use of Amazon EBS, this was expected to be a trivial task. Turns out that without a solid knowledge of setting up and managing configurations for AWS resources, doing this can be challenging.
 
-There are a host of pages and videos explaining how to deploy spring/springboot applications to elastic beanstalk. however, I was not lucky enough to find one explaining details of the underlying computing resource for this configuration.
+There are a host of pages and videos explaining how to deploy Spring/Spring Boot applications to Elastic Beanstalk. However, I was not lucky enough to find one explaining details of the underlying computing resource for this configuration.
 
-For this post, I am focusing on the configuration required to deploy a java application on elastic bean stalk, using Amazon EBS CLI. This can also be done with AWSCLI, though, EBS CLI is tailored to meet our needs.
+For this post, I am focusing on the configuration required to deploy a Java application on Elastic Beanstalk, using the EB CLI. This can also be done with AWS CLI, though EB CLI is tailored to meet our needs.
 
 
 ### Infrastructure Diagram
@@ -49,7 +51,7 @@ deploy:
 Remove the deploy artifact configuration and use the following command to create your environment:
 
 ```
-$ eb create --source target/spring-boot-bootstrap-eb.jar --$ version spring-boot-bootstrap-eb
+$ eb create --source target/spring-boot-bootstrap-eb.jar --version spring-boot-bootstrap-eb
 ```
 
 Similarly run the following command to deploy

@@ -2,7 +2,7 @@
 title: "Introduction to Algorithms, Fourth Edition"
 date: 2024-06-08T17:34:26-06:00
 description: "A comprehensive update of the leading algorithms text, with new material on matchings in bipartite graphs, online algorithms, machine learning, and other topics. Thomas H. Cormen (Author), Charles E. Leiserson (Author), Ronald L. Rivest (Author), Clifford Stein (Author)"
-tags: ["Algorithms", "Data structures"]
+tags: ["algorithms", "data structures"]
 type: post
 showTableOfContents: true
 image: /images/posts/introduction-to-algorithms_250x250.jpg

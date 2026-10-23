@@ -5,7 +5,9 @@ author: Sanaz Zakeri
 description: This post summarizes the key features of apache kafka in less than two minutes
 image: /images/posts/kafka_in_100s.png
 type: post
-tags: ["Apache kafka", "microservices"]
+tags: ["apache-kafka", "microservices", "event-streaming"]
+aliases:
+  - /posts/kafka_in_100_seconds/
 ---
 
 _This post is written by [Sanaz Zakeri](https://www.linkedin.com/in/sanazzakeri/?utm_source=substack&utm_medium=email), who is a Senior Software Engineer @Uber. (Courtesy - [ByteByteGo](https://blog.bytebytego.com/) )_

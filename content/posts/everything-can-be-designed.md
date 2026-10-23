@@ -5,12 +5,14 @@ summary: "What started as a simple test automation task evolved into a deep expl
 image: /images/posts/everything-can-be-designed.png
 date: 2025-06-26T02:22:33-06:00
 description: "Uncovering the hidden value in systems design was as exciting as discovering a beautiful combination to solve a chess puzzle. What began as a straightforward task—adding integration tests for Critical User Journeys (CUJs)—evolved into a deep dive into how testing is architected, modularized, and orchestrated. This post captures that journey: from skepticism to insight, from simple test additions to designing a test framework that reveals the elegance behind Angular testing harnesses, dependency injection, and user-centric coverage. A reminder that even the smallest tasks can hold the seeds of thoughtful design."
-tags: ["System design", "Design thinking", "Testing", "Angular"]
+tags: ["system design", "design thinking", "testing", "angular"]
 type: post
 showTableOfContents: true
+aliases:
+  - /posts/every-can-be-designed/
 ---
 
-![Test Architecture – CUJ Automation](/images/chesaaah.png)
+![Chess Strategy – Finding Order in Complexity](/images/chesaaah.png)
 
 ## 💡 Sense in "nonsense"
 

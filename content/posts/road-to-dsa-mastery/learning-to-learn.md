@@ -5,7 +5,7 @@ description: "The third entry in my Road to DSA Mastery series captures the brea
 tags: ["data structures", "algorithms", "first principles", "problem solving", "road to mastery"]
 type: post
 showTableOfContents: true
-image: /images/posts/dsa-made-easy_250x250.png
+image: /images/posts/road-to-dsa-mastery-entry-3.png
 ---
 
 > “We shape clay into a pot, but it is the emptiness inside that holds whatever we want.”
@@ -143,3 +143,12 @@ To be a good software engineer, a foundational understanding of data structures 
 This is why data structures are more than just academic topics — they are the building blocks for real-world software and the mental toolkit for scalable, performant systems. Mastery of these foundations is considered table stakes for top-tier technical interviews, as they directly reflect one's ability to build efficient and robust software.
 
 I'm no longer just learning DSA. I'm learning how to learn — again, and better.
+
+---
+
+> **Road to DSA Mastery Series:**
+> 1. [Part 1: Back to the Fundamentals](/posts/road-to-dsa-mastery/back-to-the-fundamentals/)
+> 2. [Part 2: Open Your Mind: To Learn, You Must Unlearn](/posts/road-to-dsa-mastery/open-your-mind-learn-to-unlearn/)
+> 3. **Part 3: Learn Again, Learn Better** *(You are here)*
+> 4. [Part 4: Trust the Process, Make Refinements](/posts/road-to-dsa-mastery/trust-the-process/)
+> 5. [Part 5: The End in Sight: From Fog to First Principles](/posts/road-to-dsa-mastery/the-end-in-sight/)
