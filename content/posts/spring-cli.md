@@ -1,10 +1,12 @@
 ---
 title: Use CLI to generate your spring starter projects
-description: Rather than go throught the process of generating spring starter projects through spring.io, we can use spring CLI to generate projects templates
-tags: [Springboot, SpringCLI, Java]
+description: Rather than go through the process of generating Spring starter projects through start.spring.io, we can use Spring CLI to generate project templates.
+tags: ["spring-boot", "spring-cli", "java"]
 image: "/images/posts/spring-boot.png"
 type: post
 date: 2024-04-17T03:27:00+00:00
+aliases:
+  - /posts/spring_cli/
 ---
 
 ![Spring.io CLI](/images/posts/spring-boot.png "Spring CLI")
@@ -50,7 +52,7 @@ You can customize your project settings by specifying additional options in the 
 This command creates a new Spring Boot project with Java 21, Gradle as the build system, JAR packaging with actuator, data-jdbc, postgresql, web as dependencies. To view more customizable options, do:
 
    ```bash
-   sdk --help init
+   spring init --help
    ```
 
 | Command                                | Description                                                 |

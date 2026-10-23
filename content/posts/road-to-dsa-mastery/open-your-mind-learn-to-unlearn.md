@@ -109,3 +109,12 @@ This shift wasn’t fast. It wasn’t easy. But it was necessary. And freeing.
 I’ve started to rebuild—not just how I code, but how I learn. Slowly. Deliberately. With humility.
 
 And so, the road continues—not driven by urgency, but by understanding. Not ruled by fear, but guided by purpose.
+
+---
+
+> **Road to DSA Mastery Series:**
+> 1. [Part 1: Back to the Fundamentals](/posts/road-to-dsa-mastery/back-to-the-fundamentals/)
+> 2. **Part 2: Open Your Mind: To Learn, You Must Unlearn** *(You are here)*
+> 3. [Part 3: Learn Again, Learn Better](/posts/road-to-dsa-mastery/learning-to-learn/)
+> 4. [Part 4: Trust the Process, Make Refinements](/posts/road-to-dsa-mastery/trust-the-process/)
+> 5. [Part 5: The End in Sight: From Fog to First Principles](/posts/road-to-dsa-mastery/the-end-in-sight/)

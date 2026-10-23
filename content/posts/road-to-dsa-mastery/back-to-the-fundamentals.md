@@ -100,3 +100,12 @@ Alvin Zablan, in his Structy tutoring program, said it best:
 That clicked.
 
 Suddenly, the weakness of my weakness became visible — not as a failure, but a signal of strength left undisciplined. What once felt overwhelming now feels approachable. I'm no longer driven by fear. In its place is a growing hunger to understand, a passion for learning deeply, and the confidence that comes from knowing how to move forward.
+
+---
+
+> **Road to DSA Mastery Series:**
+> 1. **Part 1: Back to the Fundamentals** *(You are here)*
+> 2. [Part 2: Open Your Mind: To Learn, You Must Unlearn](/posts/road-to-dsa-mastery/open-your-mind-learn-to-unlearn/)
+> 3. [Part 3: Learn Again, Learn Better](/posts/road-to-dsa-mastery/learning-to-learn/)
+> 4. [Part 4: Trust the Process, Make Refinements](/posts/road-to-dsa-mastery/trust-the-process/)
+> 5. [Part 5: The End in Sight: From Fog to First Principles](/posts/road-to-dsa-mastery/the-end-in-sight/)

@@ -3,7 +3,7 @@ weight: 20
 title: "Design Patterns: Elements of Reusable Object-Oriented Software"
 date: 2024-05-17T12:05:33-06:00
 description: "Four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves."
-tags: ["Design Patterns", "Objected-Oriented Software"]
+tags: ["design patterns", "object-oriented design"]
 type: post
 showTableOfContents: true
 image: /images/posts/design-patterns-250x250.png
@@ -46,10 +46,10 @@ The introduction explains the concept of design patterns, which are general, reu
 
 These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. They help make a system independent of how its objects are created, composed, and represented.
 
-1. **Abstract Factory:** Provides an interface for creating families of related or dependent objects without specifying 2. their concrete classes.
+1. **Abstract Factory**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 2. **Builder**: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
-Factory Method: Defines an interface for creating an object but lets subclasses alter the type of objects that will be created.
-3. **Prototype**: Specifies the kinds of objects to create using a prototypical instance, and creates new objects by copying this prototype.
+3. **Factory Method**: Defines an interface for creating an object but lets subclasses alter the type of objects that will be created.
+4. **Prototype**: Specifies the kinds of objects to create using a prototypical instance, and creates new objects by copying this prototype.
 5. **Singleton**: Ensures a class has only one instance and provides a global point of access to it.
 
 #### 4. Structural Patterns

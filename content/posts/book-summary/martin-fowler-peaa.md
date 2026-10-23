@@ -1,12 +1,14 @@
 ---
 weight: 20
-title: "Book Summary - Patterns of Enterprise Application Architecture"
+title: "Patterns of Enterprise Application Architecture"
 date: 2024-04-28T18:05:33-06:00
-description: "In this new book, noted software engineering expert Martin Fowler turns his attention to enterprise application development. He helps professionals understand the complex aspects of architecture"
-tags: ["Martin Fowler", "Application Architecture", "Design Patterns", "12 Factor App", "Value Objects"]
+description: "In this seminal book, noted software engineering expert Martin Fowler turns his attention to enterprise application development, providing a comprehensive catalog of architectural patterns."
+tags: ["architecture", "design patterns", "enterprise software"]
 type: post
 showTableOfContents: true
 image: /images/posts/patterns-of-enterpris-application-architecture.jpg
+aliases:
+  - /posts/book-summary/martin_fowler_peaa/
 ---
 
 [!["Book Cover"](/images/posts/patterns-of-enterpris-application-architecture.jpg "Book Cover")](https://leer.amazon.com.mx/kp/embed?asin=B008OHVDFM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_90Z6ZM5DRZE627N8058F&tag=eiakojime-20)
@@ -17,9 +19,9 @@ image: /images/posts/patterns-of-enterpris-application-architecture.jpg
 
 In the book Fowler elaborated the importance of architectural patterns in addressing the common challenges faced during the development of large-scale enterprise applications. Fowler then proceeds to systematically explore a wide array of patterns, ranging from foundational patterns like Layered Architecture and Table Module to more sophisticated patterns such as Service Layer and Domain Model. Each pattern is meticulously dissected, with detailed explanations of its rationale, structure, implementation considerations, and real-world examples.
 
-He Also navigates through cross-cutting concerns such as concurrency, distribution, and persistence, emphasizing how these concerns manifest within the context of enterprise applications and how corresponding patterns can mitigate associated complexities besides the importance of striking a balance between flexibility, maintainability and performance.
+He also navigates through cross-cutting concerns such as concurrency, distribution, and persistence, emphasizing how these concerns manifest within the context of enterprise applications and how corresponding patterns can mitigate associated complexities besides the importance of striking a balance between flexibility, maintainability and performance.
 
-"Patterns of Enterprise Application Architecture" serves as a valuable reference guide for software architects and developers, providing actionable insights and practical guidance for crafting robust, scalable, and maintainable enterprise systems. It aslo forms the basis for industry standards like - [The Twelve-Factor App](https://12factor.net/)
+"Patterns of Enterprise Application Architecture" serves as a valuable reference guide for software architects and developers, providing actionable insights and practical guidance for crafting robust, scalable, and maintainable enterprise systems. It also forms the basis for industry standards like - [The Twelve-Factor App](https://12factor.net/)
 
 ## Primary Topics
 

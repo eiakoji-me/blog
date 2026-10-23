@@ -1,8 +1,8 @@
 ---
 title: "About Me - Social Profile"
 date: 2024-04-25T22:48:01-06:00
-tags: [eiakojime, sports, hobbies, chess, tennis, soccer, mathematics, science, engineering]
-type: post
+type: page
+showTableOfContents: false
 ---
 I find pleasure in a diverse array of activities that cater to my varied interests. As an avid chess player, I relish the mental challenge and strategic depth that the game offers. Whether engaged in friendly matches with friends or participating in local tournaments, chess provides a stimulating outlet for sharpening my analytical skills and fostering social connections within the chess community.
 
