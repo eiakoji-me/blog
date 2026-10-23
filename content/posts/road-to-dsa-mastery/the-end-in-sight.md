@@ -5,7 +5,7 @@ description: "My fifth entry in the Road to DSA Mastery series marks a pivotal s
 tags: ["data structures", "algorithms", "first principles", "problem solving", "road to mastery"]
 type: post
 showTableOfContents: true
-image: /images/posts/static/images/posts/road-to-dsa-mastery-entry-5.png
+image: /images/posts/road-to-dsa-mastery-entry-5.png
 ---
 
 There’s a defining moment in any challenging pursuit—a point where the **fog lifts**, and the entire landscape of your learning finally comes into vivid view. For me, after months of wrestling with the weight of uncertainty, that moment is undeniably now.

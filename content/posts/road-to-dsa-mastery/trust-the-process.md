@@ -5,7 +5,7 @@ description: "This fourth entry in the Road to DSA Mastery series reflects on th
 tags: ["data structures", "algorithms", "first principles", "problem solving", "road to mastery"]
 type: post
 showTableOfContents: true
-image: /images/posts/static/images/posts/road-to-dsa-mastery-entry-4.png
+image: /images/posts/road-to-dsa-mastery-entry-4.png
 ---
 
 **Road to DSA Mastery – Entry 4**

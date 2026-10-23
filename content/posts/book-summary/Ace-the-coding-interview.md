@@ -1,3 +1,12 @@
+---
+title: "Ace the Coding Interview"
+description: "A structured collection of coding-interview practice drills."
+tags: ["data structures", "algorithms", "interview preparation"]
+type: post
+showTableOfContents: true
+draft: true
+---
+
 ## 📚 Chapter 01 – Two Pointers (14 Drills)
 
 | #   | Title                               | Difficulty  | Est. Time |

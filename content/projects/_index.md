@@ -48,17 +48,6 @@ In this training, I am diving deep into the principles and practices of microser
 
 This is derived from the {{< newtab "https://subscription.packtpub.com/book/programming/9781789530728" >}}Mastering microservices with Java{{< /newtab >}} book by Sourabh Sharma. The training includes hands-on exercises and real-world examples to reinforce the concepts learned.
 
-### Introduction to Kotlin multiplatform (KMP)
-
-In this training, I am learning about Kotlin Multiplatform (KMP) and its capabilities for building cross-platform applications. The focus is on sharing code between different platforms, including Android, iOS, and web applications. The training covers topics such as KMP architecture, shared modules, and best practices for code sharing.
-- {{< newtab "https://kotlinlang.org/docs/multiplatform.html" >}}Introduction to Kotlin Multiplatform{{< /newtab >}}
-- {{< newtab "https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html" >}}Kotlin Multiplatform Mobile{{< /newtab >}}
-- {{< newtab "https://kotlinlang.org/docs/multiplatform-ios-overview.html" >}}Kotlin Multiplatform for iOS{{< /newtab >}}
-- {{< newtab "https://kotlinlang.org/docs/multiplatform-android-overview.html" >}}Kotlin Multiplatform for Android{{< /newtab >}}
-- {{< newtab "https://kotlinlang.org/docs/multiplatform-web-overview.html" >}}Kotlin Multiplatform for Web{{< /newtab >}}
-- {{< newtab "https://kotlinlang.org/docs/multiplatform-desktop-overview.html" >}}Kotlin Multiplatform for Desktop{{< /newtab >}}
-- {{< newtab "https://kotlinlang.org/docs/multiplatform-backend-overview.html" >}}Kotlin Multiplatform for Backend{{< /newtab >}}
-
 ### Proof of Concepts (PoCs)
 
 I am currently working on several PoCs to explore new technologies and approaches for solving complex engineering problems. These PoCs are focused on:
