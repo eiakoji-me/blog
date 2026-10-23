@@ -8,7 +8,7 @@ type: page
 
 # Ezekiel Inalegwu Akoji
 
-**Software Engineer** | L6+ / Engineering Manager Track | Java Platform & Tooling
+**Staff Engineer** | Engineering Manager Track
 
 📍 Houston, TX · 📧 [akojimsg@gmail.com](mailto:akojimsg@gmail.com)
 
@@ -18,7 +18,7 @@ type: page
 
 ## Profile Summary
 
-Staff-level Software Engineer with 10+ years of experience in backend platform engineering, developer tooling, and distributed systems. Specialized in the Java ecosystem and platform tooling. Proven success in leading system architecture, building reusable libraries, and elevating developer experience through CI/CD automation, infrastructure as code, and scalable design patterns.
+Staff-level Software Engineer with 10+ years of experience in backend engineering and distributed systems. Proven success in leading system architecture, building reusable libraries, and elevating developer experience through CI/CD automation, infrastructure as code, and scalable design patterns.
 
 At Google (XWF/FTC), actively contributing to platform and feature development across service and UI layers. Strong practitioner of developer-experience improvements, component testing, and scalable service architecture.
 
