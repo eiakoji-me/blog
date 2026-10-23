@@ -73,35 +73,16 @@ ShowBackToTopButton = true
     weight = 2
 
   [[menu.main]]
-    name = "Projects"
-    pre = "<span data-feather='code'></span>"
-    url = "/projects/"
+    name = "Curriculum"
+    pre = "<span data-feather='file-text'></span>"
+    url = "/about/curriculum/"
     weight = 3
 
   [[menu.main]]
     name = "Posts"
     pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    url = "https://learn-eiakoji-me.netlify.app"
     weight = 4
-
-  [[menu.main]]
-    name = "Tags"
-    pre = "<span data-feather='tag'></span>"
-    url = "/tags/"
-    weight = 5
-
-  [[menu.main]]
-    identifier = "github"
-    url = "https://github.com/eiakoji-me"
-    weight = 6
-    # We use feather-icons: https://feathericons.com/
-    pre = "<span data-feather='github'></span>"
-
-  [[menu.main]]
-    identifier = "rss"
-    pre = "<span data-feather='rss'></span>"
-    url = "/index.xml"
-    weight = 7
 
 [markup]
   [markup.tableOfContents]
