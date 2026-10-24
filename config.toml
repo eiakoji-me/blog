@@ -81,7 +81,7 @@ ShowBackToTopButton = true
   [[menu.main]]
     name = "Posts"
     pre = "<span data-feather='book'></span>"
-    url = "https://learn-eiakoji-me.netlify.app"
+    url = "https://wiki.eiakoji.me"
     weight = 4
 
 [markup]
