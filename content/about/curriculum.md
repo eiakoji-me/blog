@@ -1,5 +1,5 @@
 ---
-title: "My Curriculum"
+title: "My Profile"
 description: "A comprehensive overview of my professional journey, technical skills, and contributions in software engineering."
 tags: ["curriculum", "resume", "cv"]
 showTableOfContents: false
