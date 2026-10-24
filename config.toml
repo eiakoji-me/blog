@@ -75,7 +75,7 @@ ShowBackToTopButton = true
   [[menu.main]]
     name = "Profile"
     pre = "<span data-feather='file-text'></span>"
-    url = "/about/curriculum/"
+    url = "/profile/"
     weight = 3
 
   [[menu.main]]
