@@ -6,111 +6,57 @@ showTableOfContents: false
 type: page
 ---
 
-# Ezekiel Inalegwu Akoji
+## Profile
 
-**Staff Engineer** | Engineering Manager Track
+More than fifteen years of engineering work have exposed me to a wide range of systems, organizations, and business contexts—from enterprise integration and platform modernization to greenfield products and AI-engineered applications.
 
-📍 Houston, TX · 📧 [akojimsg@gmail.com](mailto:akojimsg@gmail.com)
+That breadth is most valuable as a basis for judgment. My development toward Staff+ engineering is centered on owning meaningful problem spaces: understanding the business need, shaping the architecture, making consequential technical decisions, enabling teams to deliver, and remaining accountable for how the system creates value and operates over time.
 
-🔗 [LinkedIn](https://linkedin.com/in/ezekiel-inalegwu-akoji) · 🌐 [eiakoji.me](https://eiakoji.me)
+Hands-on engineering remains part of that work. Java is my primary language, supported by practical delivery experience with Python, TypeScript, Golang, cloud platforms, distributed systems, and modern AI application frameworks. The purpose of that technical range is not to collect tools, but to choose and connect them well enough to move a problem from ambiguity to a dependable outcome.
 
----
+## Core competencies
 
-## Profile Summary
+- **Problem framing and solution architecture:** Translating business needs and operational constraints into coherent technical direction, architecture decisions, and executable plans.
+- **Platform modernization:** Evolving legacy and enterprise systems through incremental architecture change, automation, cloud adoption, stronger delivery practices, and improved operability.
+- **Product engineering:** Taking greenfield ideas and experiments toward products that can be evaluated, secured, operated, and improved in production.
+- **AI-engineered applications:** Designing systems that combine models with orchestration, context, memory, retrieval, guardrails, human oversight, evaluation, observability, and failure handling.
+- **Distributed and event-driven systems:** Designing service-oriented platforms, APIs, asynchronous workflows, and integration patterns for reliability and scale.
+- **Cloud and platform engineering:** AWS, Google Cloud, Azure, Kubernetes, infrastructure as code, CI/CD, developer tooling, and production observability.
+- **Security and operations:** Secure-by-design architecture, vulnerability remediation, identity and access controls, auditability, reliability, and operational readiness.
+- **Technical leadership:** Architecture guidance, cross-functional collaboration, mentoring, technical interviews, developer training, and improving how teams deliver.
+- **Implementation foundation:** Java, Python, TypeScript, Golang, Spring Boot, FastAPI, React, gRPC, GraphQL, SQL, and related engineering tools.
 
-Staff-level Software Engineer with 10+ years of experience in backend engineering and distributed systems. Proven success in leading system architecture, building reusable libraries, and elevating developer experience through CI/CD automation, infrastructure as code, and scalable design patterns.
+## Major achievements
 
-At Google (XWF/FTC), actively contributing to platform and feature development across service and UI layers. Strong practitioner of developer-experience improvements, component testing, and scalable service architecture.
+- **Engineered an agentic application from requirements through delivery** in a Fortune 500 enterprise context. The work connected a modern web interface, streaming services, multi-agent orchestration, enterprise data, human approval, guardrails, and observability into a usable business workflow.
+- **Created a spec-driven system for AI-assisted software delivery.** The workflow turned work items into structured refinement, architecture decisions, implementation, testing, review, and pull-request generation, giving engineers and agents a shared operating model rather than a collection of disconnected prompts.
+- **Automated performance validation for distributed cloud infrastructure.** The resulting framework made repeatable, multi-region testing part of delivery and improved the team's ability to evaluate system behavior under realistic operating conditions.
+- **Led the architecture of a multi-tenant telecommunications diagnostics platform.** The work combined service-oriented backends, micro-frontends, cloud infrastructure, and team-wide technical direction to support a complex enterprise product.
+- **Built reusable foundations for application generation.** Metadata-driven services, templates, and delivery automation reduced repeated implementation work and created a more consistent path from requirements to deployable software.
+- **Improved enterprise delivery through integration and automation.** Across e-commerce, startup, and enterprise-integration settings, this included replacing manual processes, reducing reporting cycles from days to minutes, and helping engineers adopt new platforms and delivery practices.
 
-Skilled in translating complex business needs into scalable technical solutions. Passionate about clean design, observability, mentorship, and building for long-term maintainability. Self-driven with multiple personal projects supporting small businesses across logistics, inventory management, e-commerce, and process automation.
+## Currently working on
 
----
+My current focus is the transition from delivering individual systems toward sustained ownership of problem spaces—work that connects business intent, architecture, execution, team effectiveness, and measurable outcomes.
 
-## Technical Skills
+One active project is an agentic execution environment for software delivery. It connects requirements, specifications, architecture decisions, implementation, testing, and review through persistent workflow state, specialized agents, human approval points, and isolated execution environments. The project is also a practical way to explore where AI can improve engineering work without weakening traceability, judgment, or accountability.
 
-- **Languages**: Java (8–21), TypeScript, C++, C#, Python, Go
-- **Frameworks**: Spring Boot, WebFlux, NestJS, React, Next.js, Angular
-- **Tooling**: Maven, Gradle, GitHub Actions, CircleCI, Jenkins, ArgoCD, Veracode, SonarCloud
-- **Cloud/Infra**: AWS (EKS, ECS, Lambda, API Gateway, RDS), Terraform, Docker, Kubernetes
-- **Databases**: Spanner, PostgreSQL, MySQL, Oracle, MongoDB, DynamoDB, Elasticsearch
-- **DevEx/Observability**: CI/CD pipelines, static analysis, component testing, shared libraries, CLI tooling
-- **Other**: GraphQL, REST APIs, Kafka, JBPM, Keycloak, Prometheus, Grafana, OpenTelemetry
+Another area of study is the path from experiment to product. The interesting challenge is not only whether an idea works, but how architecture, security, evaluation, observability, cost, failure handling, and an operating model can be introduced progressively as confidence grows.
 
----
+AI-engineered applications form a related area of development. My interest is in business use cases where the complete system matters more than model integration alone: selecting an appropriate problem, designing orchestration and context, introducing evaluation and guardrails, keeping people meaningfully involved, and making the result understandable and operable.
 
-## Professional Experience
-
-### Google (via ERG Inc) – Sr Software Engineer, XWF/FTC
-
-_Jul 2024 – Present_
-
-- Serving as a lead engineer on the Checks team, designing and implementing the assessment module for 1P checks across service and UI layers.
-- Developed RPC services and REST APIs using Java in an internal application framework.
-- Built Angular UI features and robust end-to-end test suites for workflows like onboarding, user modeling, and reporting.
-- Practiced TDD with full-stack coverage and contributed to scalable service design using internal build, RPC, and observability tooling.
-- Leveraged distributed databases, managed service runtimes, component testing, and agent frameworks.
-
-**Tech**: Java, TypeScript, Angular, distributed databases, Bazel, RPC, component testing
-
----
-
-### DXC Technology – Sr Software Engineer (Lead)
-
-_Jan 2023 – Jun 2024_
-
-- Designed a JBPM/Kogito-based pension automation engine using Java 17, Spring Boot, and Keycloak.
-- Migrated APIs from ECS to Kubernetes with CI/CD pipelines using CircleCI and ArgoCD; enhanced observability using New Relic.
-- Modernized monoliths into modular microservices and improved system resilience and scalability.
-- Resolved security vulnerabilities via Veracode and led DevSecOps integration initiatives.
-
-**Tech**: Java, Spring Boot, Node.js, Angular, GraphQL, K8s, Kafka, Infinispan, RHEL, Veracode, Postgres, Oracle
-
----
-
-### CommScope – Principal Software Engineer
-
-_Jun 2022 – Jan 2023_
-
-- Led development of modular frontend monoliths using Nx and Angular with reusable UI libraries.
-- Supported Spring Boot microservices for signal diagnostics and telecom telemetry.
-- Developed non-blocking UIs with NgRx and built test coverage using TDD.
-
-**Tech**: TypeScript, Angular, Nx, Jest, Spring Boot, PostgreSQL, Docker
-
----
-
-### Vizio – Platform Engineer (Contract)
-
-_Mar 2023 – May 2024_
-
-- Managed platform infrastructure for distributed services using Java and an AWS serverless stack.
-- Built Lambda-based APIs and coordinated deployments via Terraform and GitHub Actions.
-- Designed and implemented an event-driven choreography pattern using SQS, SNS, and IoT for asynchronous service communication.
-- Contributed to internal tooling and documentation for deployment, testing, and observability.
-
-**Tech**: Java, Spring Boot, AWS Lambda, SQS, SNS, IoT, Terraform, Serverless Framework
-
----
-
-### ACS Solutions – Lead Software Engineer
-
-_Nov 2020 – May 2022_
-
-- Developed a YAML-driven low-code platform for generating Spring Boot APIs and Next.js UIs with Swagger integration.
-- Delivered PoCs showcasing blue-green and canary deployments, TDD-first component generation, and custom dashboards.
-- Deployed highly available containerized applications on Kubernetes using Helm, GitLab CI/CD, and Terraform.
-
-**Tech**: Java, Spring Cloud, Go, React, Next.js, Terraform, GitLab CI/CD, Docker, Helm, PostgreSQL
-
----
+Continued work in distributed systems, reliability, cloud-native architecture, and technical strategy supports these areas and the broader development of Staff+ engineering judgment.
 
 ## Education
 
-- **MCS Business Management** – Tecnológico de Monterrey, 2011–2015
-- **BCS Mechatronics Engineering** – Tecnológico de Monterrey, 2006–2010
-
----
+- **Agentic and Generative AI for Business**, postgraduate program, UT Austin (July–November 2026; in progress)
+- **AI and Data Science Program**, MIT Professional Studies (April–June 2026)
+- **MA in Business Management**, Tecnológico de Monterrey (2015)
+- **BEng in Mechatronics Engineering**, Tecnológico de Monterrey (2010)
 
 ## Certifications
 
-- **AWS Certified Cloud Practitioner** : *Issued by AWS | Verified via [Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)*
+- **AWS Certified Solutions Architect – Professional (SAP-C02)**
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **AWS Certified Cloud Practitioner (CLF-C01)** — [verified via Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)
+- **Scrum Foundation Professional Certificate (SFPC)**
