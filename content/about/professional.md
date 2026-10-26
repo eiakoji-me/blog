@@ -5,60 +5,57 @@ showTableOfContents: false
 type: page
 ---
 
-### Summary:
-- **Education:**  
-  _BSE in Mechatronic Engineering_, specialization in Intelligent Systems ([ITESM Cuernavaca](https://tec.mx/en/cuernavaca-campus), 2010).  
-  _MSc in Business Management_, specialization in Business Development ([ITESM](https://tec.mx), 2015).
+## Profile
 
-- **Industries:**  
-  Banking, Telecommunications, Retail, eCommerce, Healthcare, Multimedia, Fast Food, Manufacturing, Logistics, and Construction.
+More than fifteen years of engineering work have exposed me to a wide range of systems, organizations, and business contexts—from enterprise integration and platform modernization to greenfield products and AI-engineered applications.
 
-- **Expertise:**  
-  Business Analysis, DevSecOps, Software Development, Process Automation, and Data Analysis.
+That breadth is most valuable as a basis for judgment. My development toward Staff+ engineering is centered on owning meaningful problem spaces: understanding the business need, shaping the architecture, making consequential technical decisions, enabling teams to deliver, and remaining accountable for how the system creates value and operates over time.
 
-### Technical Skills:
-- **Web Development:**  
-  RESTful APIs, GraphQL, Reactive Web Applications, MVC Pattern, Microservices, PWA, Multi-tenant SaaS.
+Hands-on engineering remains part of that work. Java is my primary language, supported by practical delivery experience with Python, TypeScript, Golang, cloud platforms, distributed systems, and modern AI application frameworks. The purpose of that technical range is not to collect tools, but to choose and connect them well enough to move a problem from ambiguity to a dependable outcome.
 
-- **UI Frameworks:**  
-  ReactJS, Angular, PrimeFaces, PrimeNG, PrimeReact, and static site generators like Hugo, Jekyll, and Gatsby.
+## Core competencies
 
-- **Environments:**  
-  Ubuntu, RHEL, Amazon Linux 2/2023, JBoss EAP, WildFly, Tomcat, Nginx, Express.js, IIS, Apache.
+- **Problem framing and solution architecture:** Translating business needs and operational constraints into coherent technical direction, architecture decisions, and executable plans.
+- **Platform modernization:** Evolving legacy and enterprise systems through incremental architecture change, automation, cloud adoption, stronger delivery practices, and improved operability.
+- **Product engineering:** Taking greenfield ideas and experiments toward products that can be evaluated, secured, operated, and improved in production.
+- **AI-engineered applications:** Designing systems that combine models with orchestration, context, memory, retrieval, guardrails, human oversight, evaluation, observability, and failure handling.
+- **Distributed and event-driven systems:** Designing service-oriented platforms, APIs, asynchronous workflows, and integration patterns for reliability and scale.
+- **Cloud and platform engineering:** AWS, Google Cloud, Azure, Kubernetes, infrastructure as code, CI/CD, developer tooling, and production observability.
+- **Security and operations:** Secure-by-design architecture, vulnerability remediation, identity and access controls, auditability, reliability, and operational readiness.
+- **Technical leadership:** Architecture guidance, cross-functional collaboration, mentoring, technical interviews, developer training, and improving how teams deliver.
+- **Implementation foundation:** Java, Python, TypeScript, Golang, Spring Boot, FastAPI, React, gRPC, GraphQL, SQL, and related engineering tools.
 
-- **DevSecOps Tools:**  
-  Jenkins, CircleCI, GitHub Actions, GitLab CI/CD, Terraform, Serverless Framework, Veracode, SonarCloud.
+## Major achievements
 
-- **Cloud Technologies:** 
-  _AWS_ (EC2, ECS/Fargate, RDS, DynamoDB, CloudFormation, API Gateway, CloudWatch), _GCP_ (Compute Engine, Cloud Run, Cloud SQL, Pub/Sub, Stackdriver), _Azure_ (planned adoption – focus on Azure Functions, Cosmos DB, and ARM templates).
+- **Engineered an agentic application from requirements through delivery** in a Fortune 500 enterprise context. The work connected a modern web interface, streaming services, multi-agent orchestration, enterprise data, human approval, guardrails, and observability into a usable business workflow.
+- **Created a spec-driven system for AI-assisted software delivery.** The workflow turned work items into structured refinement, architecture decisions, implementation, testing, review, and pull-request generation, giving engineers and agents a shared operating model rather than a collection of disconnected prompts.
+- **Automated performance validation for distributed cloud infrastructure.** The resulting framework made repeatable, multi-region testing part of delivery and improved the team's ability to evaluate system behavior under realistic operating conditions.
+- **Led the architecture of a multi-tenant telecommunications diagnostics platform.** The work combined service-oriented backends, micro-frontends, cloud infrastructure, and team-wide technical direction to support a complex enterprise product.
+- **Built reusable foundations for application generation.** Metadata-driven services, templates, and delivery automation reduced repeated implementation work and created a more consistent path from requirements to deployable software.
+- **Improved enterprise delivery through integration and automation.** Across e-commerce, startup, and enterprise-integration settings, this included replacing manual processes, reducing reporting cycles from days to minutes, and helping engineers adopt new platforms and delivery practices.
 
+## Currently working on
 
-- **Programming Languages:**  
-  Java SE, Java EE, Spring Framework, Spring Boot, Node.js, JavaScript/TypeScript, NestJS, Next.js, Angular, React.js, Express.js.  
-  Also experienced in C#, C/C++, PHP, MATLAB, Visual Lisp, Go, and Python.
+My current focus is the transition from delivering individual systems toward sustained ownership of problem spaces—work that connects business intent, architecture, execution, team effectiveness, and measurable outcomes.
 
-- **Databases:**  
-  Oracle, MySQL, SQL Server, PostgreSQL, SSIS, MongoDB, Cassandra, Elasticsearch, Redis.
+One active project is an agentic execution environment for software delivery. It connects requirements, specifications, architecture decisions, implementation, testing, and review through persistent workflow state, specialized agents, human approval points, and isolated execution environments. The project is also a practical way to explore where AI can improve engineering work without weakening traceability, judgment, or accountability.
 
-- **Engineering Systems:**  
-  Familiarity with CAD, CAE, CAM, CAx, HMI development, and microprocessor-based systems.
+Another area of study is the path from experiment to product. The interesting challenge is not only whether an idea works, but how architecture, security, evaluation, observability, cost, failure handling, and an operating model can be introduced progressively as confidence grows.
 
-### Community Engagement:
-- Contributor to open-source projects and active in developer communities such as:  
-  [Stack Overflow](https://stackoverflow.com/users/7411342/koji-dinfinte),  
-  [GitHub](https://github.com/eiakoji-me),  
-  [Dev.to](https://dev.to/akojimsg),  
-  [Medium](https://medium.com/@akojimsg)
+AI-engineered applications form a related area of development. My interest is in business use cases where the complete system matters more than model integration alone: selecting an appropriate problem, designing orchestration and context, introducing evaluation and guardrails, keeping people meaningfully involved, and making the result understandable and operable.
 
-I continuously seek to expand my skill set and contribute to roles involving innovation, technical problem-solving, and cross-industry solutions.
+Continued work in distributed systems, reliability, cloud-native architecture, and technical strategy supports these areas and the broader development of Staff+ engineering judgment.
 
-### Certifications:
+## Education
 
-- **AWS Certified Cloud Practitioner**  
-  *Issued by AWS | Verified via [Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)*
+- **Agentic and Generative AI for Business**, postgraduate program, UT Austin (July–November 2026; in progress)
+- **AI and Data Science Program**, MIT Professional Studies (April–June 2026)
+- **MA in Business Management**, Tecnológico de Monterrey (2015)
+- **BEng in Mechatronics Engineering**, Tecnológico de Monterrey (2010)
 
-- **AWS Certified Solutions Architect – Associate**  
-  *In progress – expected completion: June 2025*
+## Certifications
 
-- **AWS Certified Solutions Architect – Professional**  
-  *Planned – targeted for July 2025*
+- **AWS Certified Solutions Architect – Professional (SAP-C02)**
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **AWS Certified Cloud Practitioner (CLF-C01)** — [verified via Credly](https://www.credly.com/badges/9311bc55-66fd-497b-b043-d19d84513db9/public_url)
+- **Scrum Foundation Professional Certificate (SFPC)**
